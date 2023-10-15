@@ -1,0 +1,28 @@
+.image-container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 40px; /* Sesuaikan dengan jarak yang diinginkan */
+  }
+  
+  ion-img {
+    width: 100px; /* Sesuaikan dengan ukuran yang diinginkan */
+    height: 70px; /* Sesuaikan dengan ukuran yang diinginkan */
+    border-radius: 10%;
+    margin-bottom: 5px; /* Menambahkan jarak antara foto dan nama */
+  }
+
+  ion-button.small {
+    text-transform: capitalize;
+  }
+  
+  .name {
+    text-align: center; /* Menengahkan teks */
+    margin-bottom: 40px; /* Menambahkan jarak antara nama dan tombol */
+  }
+  
+  .button {
+    text-transform: capitalize;
+    width: 100%;
+  }
+  
